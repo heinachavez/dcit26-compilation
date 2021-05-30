@@ -17,6 +17,9 @@ A compilation of React Native examples for the course DCIT 26 – Application De
 
 ## Members (BSCS 3‐3)
 •	Chavez, Hanna Nicole
+
 •	Manzano, All Jhane
+
 •	Nogot, Jonvic
+
 •	Villanueva, Pauline
